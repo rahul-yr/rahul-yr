@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Rahul
   
   - Full Stack | Big Data | Cloud | Serverless | Cross Platform
-  - Having 4+ Years of professional work experience. 
   - Reach me on rahul.mso@outlook.com
       
 

@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rahul
   
   - Full Stack | Big Data | Cloud | Serverless | Cross Platform
-  - Reach me on rahul.mso@outlook.com
+  - Reach me on contacttechsmart@gmail.com
       
 
 
